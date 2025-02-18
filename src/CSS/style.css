@@ -46,21 +46,21 @@ p{
     background-attachment: fixed; /*Fixa a imagem e causa o efeito parallax*/
 }
 .caixa1{
-    background-image: url(../IMG/imagem1.jpg);
+    background-image: url(../src/IMG/imagem1.jpg);
 }
 .caixa2{
-    background-image: url(../IMG/imagem2.jpg); 
+    background-image: url(../src/IMG/imagem2.jpg); 
 }
 .caixa3{
-    background-image: url(../IMG/imagem3.jpg);
+    background-image: url(../src/IMG/imagem3.jpg);
 }
 .caixa4{
-    background-image: url(../IMG/imagem4.jpg);  
+    background-image: url(../src/IMG/imagem4.jpg);  
 }
 .caixa5{
-    background-image: url(../IMG/imagem5.jpg); 
+    background-image: url(../src/IMG/imagem5.jpg); 
 }
 .caixa6{
-    background-image: url(../IMG/imagem6.jpg);
+    background-image: url(../src/IMG/imagem6.jpg);
 }
 
